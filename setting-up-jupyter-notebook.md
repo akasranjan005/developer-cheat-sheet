@@ -20,8 +20,13 @@ pip install jupyterthemes
 jt -t chesterish -nf firacode -f firacode
 ```
 
+* Screenshots
+
+![alt text](https://raw.githubusercontent.com/akasranjan005/developer-cheat-sheet/master/images/jupyter-notebook-theme.png "Themed Jupyter screenshot")
+
+
 
 # [ToDo]
 
 * Add descriptions of commands
-* Add Screenshots
+* ~Add Screenshots~
